@@ -29,7 +29,6 @@ We also have [this repository](https://github.com/trint-it/coding-exercise-proje
 More information for candidates can be found [here](./CANDIDATE_INFORMATION.md).
 
 More information for interviewers can be found:
-- [here](./PROCESS_IN_PERSON.md) for in-person interviews
 - [here](./PROCESS_REMOTE.md) for remote interviews
 
 ## Licence
