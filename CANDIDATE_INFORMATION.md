@@ -2,7 +2,7 @@ _intended audience: candidate_
 
 # Candidate Information
 
-Thank you for applying to the Guardian.
+Thank you for applying to Trint.
 
 Please take some time to go over the [README](./README.md) prior to your interview.
 It provides in depth information about this stage: why we perform it, what we’re trying to assess and how.
