@@ -5,7 +5,7 @@ Thank you for your interest in the Trint's coding exercises. This repository is 
 Inspired to work for Trint? [**Apply now**](https://trint.com/jobs/)
 
 ## What is it?
-The pairing exercise is one of the stages in our interview process. It is a 60-90 minute exercise where you and two Trint engineers work toghether writing code to solve a problem.
+The pairing exercise is one of the stages in our interview process. It is a 60-90 minute exercise where you and two Trint engineers work together writing code to solve a problem.
 
 Similar to when you pair with a colleague, there will be a driver and a navigator. The driver will be the one at the keyboard, whilst the navigator will be making suggestions and asking questions.
 
