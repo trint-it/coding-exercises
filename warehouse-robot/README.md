@@ -45,9 +45,18 @@ There are some rules about moving crates:
 * The robot should not lift a crate if there is not one present
 * The robot should not drop a crate on another crate!
 
-## Part three
+## Extended Objectives
+
+### Diagnal tracks
 
 We have expanded the robot's grid system to include diagonal tracks. Modify the robot's movement so that it can take advantage of the new diagonals. We don't want to change all the movement programmes though so don't change the syntax of the commands we send.
 
-So for example if the robot starts in the south-west corner of the warehouse then issuing the command "E N" should move the robot to the same place as if it moved east once and north once but it should only move once.
+Where two commands equate to a diagnal movement they should make a single transition. So "N E" is the same as "E N", and rather than moving the robot north, then east in two moves a single movement should be made.
 
+### Stacking crates
+
+The warehouse has been upgraded to a shiny new multistory building.
+
+* The crates can now be stacked up to three crates high.
+* The robot can still only hold one crate at a time.
+* It should not allow stacking a forth crate.
